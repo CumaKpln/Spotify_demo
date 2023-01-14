@@ -1,2 +1,2 @@
 # Spotify_demo
-My First Project
+Dinlediğim,aldığım derslerden sonra geniş çaplı yaptığım ilk projem
